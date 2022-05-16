@@ -9,7 +9,7 @@ I have been learning to code for 1 year and I have 5 month experience as of Apri
 * 🌍  I'm based in Tursunzoda, Tajikistan
 * 🖥️  See my portfolio at [Portfolio](http://asliddin.com)
 * ✉️  You can contact me at [asliddinamir2@gmail.com](mailto:asliddinamir2@gmail.com)
-* 🚀  I'm currently working on [New Portfolio Website](http://https://asliddin.com/portfolio_themes/)
+* 🚀  I'm currently working on [New Portfolio Website](https://asliddin.com/portfolio_themes/)
 * 🧠  I'm learning Node Js
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  Stay Tuned for New Projects
