@@ -6,11 +6,6 @@ Junior Full Stack Developer
 
 I have been learning to code for 1 year and I have 5 month experience as of April 25th. I have a experience in HTML, CSS(SCSS), Bootstrap, JavaScript, Python and basics of Reacts JS and currently learning Node JS
 
-* 🌍  I'm based in Tursunzoda, Tajikistan
-* 🖥️  See my portfolio at [Portfolio](http://asliddin.com)
-* ✉️  You can contact me at [asliddinamir2@gmail.com](mailto:asliddinamir2@gmail.com)
-* 🚀  I'm currently working on [New Portfolio Website](https://asliddin.com/naimportfolio/)
-* 🧠  I'm learning Node Js
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  Stay Tuned for New Projects
 
