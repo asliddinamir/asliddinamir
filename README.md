@@ -1,7 +1,7 @@
 Hi 👋 My name is Asliddin Amirov
 ================================
 
-Front End Engineer
+Front End Engineer (React, TS, JS)
 ---------------------------
 
 I have been learning to code for 1 year and I have 5 month experience as of April 25th. I have a experience in HTML, CSS(SCSS), Bootstrap, JavaScript, Python and basics of Reacts JS and currently learning Node JS
