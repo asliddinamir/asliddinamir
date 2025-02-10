@@ -1,16 +1,15 @@
-Hi 👋 My name is Asliddin Amirov
-================================
+
 
 Front End Engineer (React, TS, JS)
 ---------------------------
 
-👋 Hi, I’m Asliddin Amirov, a Front-End Developer passionate about creating engaging and interactive web experiences.
+👋 Hi, a Front-End Developer passionate about creating engaging and interactive web experiences.
 
-👀 I’m deeply interested in the world of coding and constantly honing my skills to stay ahead of the latest technologies and trends.
-💞️ I’m actively seeking collaboration opportunities in the field of Front End Development, where I can contribute my expertise and work with like-minded professionals.
-📫 Feel free to reach out to me at asliddinamir2@gmail.com. I'm always open to connecting and discussing exciting projects or career opportunities.
+👀 Deeply interested in the world of coding and constantly honing my skills to stay ahead of the latest technologies and trends.
+💞️ Actively seeking collaboration opportunities in the field of Front End Development, where I can contribute my expertise and work with like-minded professionals.
+📫 Always open to connecting and discussing exciting projects or career opportunities.
 
-* 🤝  I'm open to collaborating on New Projects
+* 🤝  Open to collaborating on New Projects
 * ⚡  Stay Tuned for New Projects
 
 <a href="https://www.twitter.com/asliddin_amirov" target="_blank" rel="noreferrer"><img
